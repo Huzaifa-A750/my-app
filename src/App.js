@@ -3,9 +3,9 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       
-        <p>
+        <p className='text-center text-9xl bg-blue-700 p-24'>
           This is Tailwind Integrated with React
         </p>
       
